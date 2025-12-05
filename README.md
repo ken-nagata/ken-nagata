@@ -6,13 +6,13 @@
 
 - 🌱 I'm currently learning **Terraform, Kubernetes**
 
-- 💬 Ask me about **Dashboarding, Data Analysis, Feature Engineering, Data Extraction, Data Cleaning, Data Modelling, Machine Learning, BigQuery, SQL, Looker Studio, GCP, Airflow, dbt**
+- 💬 Ask me about **Dashboarding, Data Analysis, Data Modelling, Feature Engineering, ETL/ELT, BigQuery, SQL, Airflow, dbt, GCP**
 
 - 📫 How to reach me **ken.nagata93@gmail.com**
 
-- ⚡ Fun fact **I’m a consumer-tech nerd with an embarrassing number of Bluetooth earbuds, and I relax by diving into obscure history, economics, and the stories behind words from different languages.**
+- ⚡ Fun fact: **I’m a consumer-tech nerd with an embarrassing number of Bluetooth earbuds, and I relax by diving into obscure history, economics, and the stories behind words from different languages.**
 
-- 👨‍💻 All of my projects are available at **[https://troopl.com/knagata](https://troopl.com/knagata)**
+- 👨‍💻 You can find all my projects at **[https://troopl.com/knagata](https://troopl.com/knagata)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
